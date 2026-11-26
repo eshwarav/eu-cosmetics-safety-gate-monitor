@@ -1,0 +1,15 @@
+﻿priority,product_family,regex
+1,Oral care,tooth|teeth|mouth ?wash|dental
+2,Skin lightening,lighten|whiten|bleaching cream|brightening
+3,Nail,nail|manicure|acrylic powder|gel polish
+4,Hair colouring,hair ?dye|hair colou?r|colou?ring|henna|tint|bleach
+5,Fragrance (incl. body sprays),perfum|parfum|toilette|cologne|after ?shave|body mist|body spray|scented body|fragrance|eau de
+6,Deodorant,deodorant|antiperspirant|roll-on
+7,Sun care,\bsun|spf|tanning|bronz
+8,Shaving,shav
+9,Make-up,mascara|eye ?liner|lip|foundation|eyeshadow|eye shadow|make-?up(?! remover)|face paint|blush|concealer|kohl|kajal|eyebrow|highlighter|glitter|body paint|lash
+10,Hair care,hair|shampoo|conditioner|scalp|beard
+11,Bath & shower,shower|bath|soap|wash|foam
+12,Wipes,wipe
+13,Skin care,cream|lotion|serum|milk|oil|mask|toner|tonic|balm|butter|gel|scrub|moistur|cleans|skin|face|body|ointment|remover|powder|peel
+14,Sets & kits,\bset\b|\bkit\b|gift

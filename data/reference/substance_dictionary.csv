@@ -1,0 +1,36 @@
+﻿substance_id,substance,substance_group,fragrance_related,regulatory_note,regex
+S01,"Butylphenyl methylpropional (BMHCA, lilial)",Fragrance ingredient - prohibited (CMR),Y,"Annex II since 1 Mar 2022, Reg. (EU) 2021/1902",butylphenyl ?methylpropional|tert-?butylbenzyl\)? ?(?:propionaldehyde|methylpropional)|\bbmhca\b|lilial
+S02,"Hydroxyisohexyl 3-cyclohexene carboxaldehyde (HICC, lyral)",Fragrance ingredient - prohibited,Y,"Annex II, Reg. (EU) 2017/1410",hydroxyisohexyl ?3-?cyclohexene|\bhicc\b|lyral
+S03,Atranol / chloroatranol,Fragrance ingredient - prohibited,Y,"Annex II, Reg. (EU) 2017/1410",\batranol|chloroatranol
+S04,Labelled fragrance allergen (undeclared or excess),Fragrance allergen - labelling,Y,Annex III labelling (Reg. (EU) 2023/1545 extends the list),limonene|linalool|geraniol|citronellol|hexyl ?cinnamal|benzyl (?:alcohol|salicylate|benzoate|cinnamate)|coumarin|eugenol|citral\b|cinnamal|cinnamyl alcohol|hydroxycitronellal|amyl ?cinnam|farnesol|anise alcohol|methyl 2-octynoate|alpha-isomethyl ionone|evernia|oak ?moss|tree ?moss|allergenic fragrance
+S05,TPO (trimethylbenzoyl diphenylphosphine oxide),Nail product chemical - prohibited (CMR),N,"Annex II since 1 Sep 2025, Reg. (EU) 2025/877",diphenyl ?\(2|trimethylbenzoyl ?diphenyl|\btpo\b
+S06,"Other nail acrylates (TMPTA, HEMA, etc.)",Nail product chemical,N,Check the CosIng entry,trimethylolpropane triacrylate|tmpta|hydroxyethyl methacrylate|\bhema\b|di-hema|methacrylate|acrylate
+S07,Hydroquinone,Skin-lightening agent - prohibited,N,Annex II (except professional artificial-nail systems),hydroquinone
+S08,Mercury,Heavy metal - prohibited,N,Annex II,mercury
+S09,Clobetasol propionate / corticosteroids,Medicinal active - prohibited,N,Annex II (corticosteroids),clobetasol|betamethasone|corticosteroid|dexamethasone
+S10,Kojic acid,Skin-lightening agent - restricted,N,Check the CosIng entry,kojic
+S11,Methylisothiazolinone (MI),Preservative - restricted,N,"Banned in leave-on, Reg. (EU) 2016/1198",methylisothiazolinone(?! and)|\bmi\)
+S12,MCI/MI mixture,Preservative - restricted,N,"Rinse-off only, Reg. (EU) No 1003/2014",methylchloroisothiazolinone|\bmci\b
+S13,Formaldehyde / releasers,Preservative - restricted,N,Check the CosIng entry,formaldehyde|dmdm hydantoin
+S14,Parabens (prohibited types),Preservative - prohibited,N,"Annex II, Reg. (EU) No 358/2014",isobutylparaben|isopropylparaben|phenylparaben|benzylparaben|pentylparaben|propylparaben|butylparaben
+S15,p-Phenylenediamine and hair-dye amines,Hair dye - restricted,N,Annex III (hair dye entries),"phenylenediamine|\bppd\b|aminophenol|toluene-2,5-diamine|resorcinol|amino-m-cresol"
+S16,"PFAS (perfluorononyl dimethicone, PFOA, PFNA)",PFAS / persistent organic pollutant,N,Reg. (EU) 2019/1021 (POPs),perfluoro|pfoa|pfna|pfas|polyfluoro
+S17,"Cyclosiloxanes (D4, D5, D6)",Siloxane - restricted,N,REACH Annex XVII,cyclotetrasiloxane|cyclopentasiloxane|cyclohexasiloxane|\bd4\b|\bd5\b
+S18,Phthalates,Phthalate - prohibited,N,Annex II,phthalate
+S19,Lead,Heavy metal - prohibited,N,Annex II,\blead\b(?! to\b)(?! the\b)(?!ing)
+S20,"Other heavy metals (antimony, arsenic, cadmium, nickel, barium, chromium)",Heavy metal - prohibited,N,Annex II,antimony|arsenic|cadmium|nickel|barium|chromium
+S21,Prostaglandin analogues (eyelash serums),Medicinal active - prohibited,N,Medicinal substance; not a cosmetic ingredient,prostaglandin|bimatoprost|cloprostenol|latanoprost|travoprost|dechloro
+S22,Peroxides and borates,Bleaching / boron compound,N,Annex III limits or Annex II (borates),hydrogen peroxide|perborate|tetraborate|boric acid|\bborate|barium peroxide|carbamide peroxide
+S23,Microbial contamination,Microbiological,N,Art. 3 safety; GMP,bacteri|micro-?organism|mould|yeast|pseudomonas|microbial|fungi|burkholderia|klebsiella|enterobacter|staphylococcus
+S24,Asbestos,Contaminant - prohibited,N,Annex II,asbestos
+S25,Benzophenone and UV filters,UV filter / photoinitiator,N,Check the CosIng entry,benzophenone|octocrylene|homosalate
+S26,Salicylic acid (excess),Restricted ingredient,N,Annex III/V limits,salicylic acid
+S27,Prohibited colourants,Colourant - prohibited,N,Annex IV / Annex II,\bci \d{5}|solvent (?:yellow|red|orange)|sudan|rhodamine|colourant|colorant|dye(?:stuff)? not
+S28,Sun protection claim not met (SPF/UVA),Claim / labelling - sun protection,N,Art. 20 claims; Recommendation 2006/647/EC,protection factor|\bspf\b|uva protection|uv-?filter and do|announced level|level of protection|protection level
+S29,Nitrosamines,Contaminant - prohibited,N,Annex II,nitroso
+S30,Lawsone and henna-type colourants,Hair dye - restricted,N,Annex III (hair dye entries),naphthoquinone|lawsone
+S31,Aniline,Contaminant - prohibited,N,Annex II,\baniline
+S32,Food imitation (look-alike product),Product presentation risk,N,Directive 87/357/EEC (food-imitating products),"mistaken (?:with|for) (?:food|foodstuff)|characteristic appearance|appearance, (?:form|colour|color)|resembl\w* food"
+S33,"Labelling, documentation or GMP failure",Labelling / documentation,N,"Arts 8, 11, 19 (GMP, PIF, labelling)",label of the product does not|not labelled|no documentation|product information file|not manufactured according|good manufacturing|responsible person|safety (?:assessment|report)|lack of labelling|missing label|warnings? (?:are|is) missing
+S34,"Cannabinoids (THC, CBD)",Narcotic / medicinal - prohibited,N,Annex II,tetrahydrocannabinol|\bthc\b|cannabidiol|\bcbd\b
+S99,Other / unclassified,Other / unclassified,N,,

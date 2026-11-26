@@ -1,0 +1,80 @@
+﻿country_code,country_name,is_eu27,region
+AE,United Arab Emirates,N,Middle East
+AL,Albania,N,Rest of Europe
+AT,Austria,Y,EU27
+AU,Australia,N,Asia-Pacific
+BA,Bosnia and Herzegovina,N,Rest of Europe
+BE,Belgium,Y,EU27
+BF,Burkina Faso,N,Africa
+BG,Bulgaria,Y,EU27
+BR,Brazil,N,Americas
+BY,Belarus,N,Rest of Europe
+CA,Canada,N,Americas
+CD,Democratic Republic Of Congo,N,Africa
+CG,Congo,N,Africa
+CH,Switzerland,N,EEA/EFTA
+CI,Ivory Coast,N,Africa
+CM,Cameroon,N,Africa
+CN,People's Republic of China,N,China
+CO,Colombia,N,Americas
+CY,Cyprus,Y,EU27
+CZ,Czechia,Y,EU27
+DE,Germany,Y,EU27
+DK,Denmark,Y,EU27
+EE,Estonia,Y,EU27
+EG,Egypt,N,Africa
+ES,Spain,Y,EU27
+ET,Ethiopia,N,Africa
+FI,Finland,Y,EU27
+FR,France,Y,EU27
+GH,Ghana,N,Africa
+GR,Greece,Y,EU27
+HR,Croatia,Y,EU27
+HU,Hungary,Y,EU27
+ID,Indonesia,N,Asia-Pacific
+IE,Ireland,Y,EU27
+IL,Israel,N,Middle East
+IN,India,N,Asia-Pacific
+IT,Italy,Y,EU27
+JP,Japan,N,Asia-Pacific
+KE,Kenya,N,Africa
+KH,Cambodia,N,Asia-Pacific
+KR,Republic of Korea,N,Asia-Pacific
+LA,Lao People's Democratic Republic,N,Asia-Pacific
+LB,Lebanon,N,Middle East
+LT,Lithuania,Y,EU27
+LU,Luxembourg,Y,EU27
+LV,Latvia,Y,EU27
+MA,Morocco,N,Africa
+MC,Monaco,N,Rest of Europe
+MK,Former Yugoslav Republic of Macedonia,N,Rest of Europe
+MT,Malta,Y,EU27
+NE,Niger,N,Africa
+NG,Nigeria,N,Africa
+NL,The Netherlands,Y,EU27
+NO,Norway,N,EEA/EFTA
+PE,Peru,N,Americas
+PH,Philippines,N,Asia-Pacific
+PK,Pakistan,N,Asia-Pacific
+PL,Poland,Y,EU27
+PT,Portugal,Y,EU27
+RO,Romania,Y,EU27
+RU,Russian Federation,N,Rest of Europe
+SA,Saudi Arabia,N,Middle East
+SE,Sweden,Y,EU27
+SI,Slovenia,Y,EU27
+SK,Slovakia,Y,EU27
+SM,San Marino,N,Rest of Europe
+SN,Senegal,N,Africa
+SY,Syria,N,Middle East
+TG,Togo,N,Africa
+TH,Thailand,N,Asia-Pacific
+TN,Tunisia,N,Africa
+TR,Turkey,N,Rest of Europe
+UA,Ukraine,N,Rest of Europe
+UK,United Kingdom,N,United Kingdom
+US,United States,N,Americas
+VA,Vatican City,N,Rest of Europe
+XI,United Kingdom in respect of Northern Ireland,N,United Kingdom
+XX,Unknown,N,Unknown
+ZA,South Africa,N,Africa
