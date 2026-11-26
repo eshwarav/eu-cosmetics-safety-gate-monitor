@@ -1,4 +1,4 @@
-# EU Cosmetics Safety Gate: a regulatory risk monitor
+# EU Cosmetics Safety Gate: a risk monitor
 
 Excel · Power Query · Power BI · DAX | Eshwar Arunkumar Vimala
 
